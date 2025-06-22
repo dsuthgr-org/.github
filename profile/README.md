@@ -17,9 +17,7 @@ For more information about the department, please visit the [official website](h
 
 ---
 
-**About the Department**
-The **Department of Digital Systems** at the **University of Thessaly** is committed to education and research in digital technologies, information systems, and software engineering.
+**About the Department:** The **Department of Digital Systems** at the **University of Thessaly** is committed to education and research in digital technologies, information systems, and software engineering.
 Its mission is to foster innovation and provide high-quality academic and technological resources to its community.
 
-**Contact**
-For questions or support, please contact the department administration or open an issue in the respective repository.
+**Contact:** For questions or support, please contact the department administration or open an issue in the respective repository.
