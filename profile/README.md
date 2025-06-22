@@ -21,4 +21,4 @@ For more information about the department, please visit our [website](https://ds
 The Department of Digital Systems at the University of Thessaly focuses on education and research in digital technologies, information systems, and software engineering. Our mission is to foster innovation and provide high-quality resources for our academic community.
 
 **Contact:**
-For questions or support, please reach out to the department administration or open an issue in a respective repository.
+For questions or support, please reach out to the department administration or open an issue in the respective repository.
